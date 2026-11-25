@@ -1,0 +1,9 @@
+node_modules/
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+android/local.properties
+www/index.html.backup*
+android/app/src/main/res_backup_*/

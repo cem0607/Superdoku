@@ -1,0 +1,9 @@
+{
+  "appId": "com.goldleafstudio.superdoku",
+  "appName": "Superdoku",
+  "webDir": "www",
+  "backgroundColor": "#05060F",
+  "android": {
+    "allowMixedContent": false
+  }
+}
